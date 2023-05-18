@@ -48,13 +48,48 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
+### X AXIS ASSEMBLY
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
+![image](https://github.com/KANISHKAR2607/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118886772/d1056510-9800-4f23-9a47-45f6d901eb0c)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
+
+#### SMOOTH ROD :
+
+ It is guide rail component made up of hardened-steel or chrome plated steel .it smoothness ensures precise  and consistent movement which is needed to produce accurate and high quality models
+ 
+ #### BEARING :
+ 
+ Linear bearings are typically used in conjunction with smooth rods,they are used to reduce friction . linear motion and rotational motion-ball bearing
+ 
+ #### IDLER :
+ 
+ The idler pulley  helps to guide the belt along its path, reducing the chances of the belt slipping or jumping teeth and causing print defects.
+ 
+ #### EXTRUDER :
+ 
+ Extruder is used to melting and extruding the filament onto the print bed
+ 
+ #### MOTOR :
+ 
+ motor is help to movement of the print head along x,y,z axes.
+ 
+ ### Y AXIS ASSEMBLY
+ 
+![image](https://github.com/KANISHKAR2607/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118886772/21273f03-24e8-419c-9a72-716649f26bf2)
+
+#### Y AXIS SUPPORTER
+
+The Y-axis supporter must be designed to withstand the forces generated during printing and maintain the printer's accuracy and stability.
+
+#### Horiz. & Vertical Threaded Rod :
+
+The horizontal threaded rod is typically used to hold the pulley that drives the movement of the print bed along the Y-axis.The vertical threaded rod is typically used to control the Z-axis movement of the print bed
+
+![image](https://github.com/KANISHKAR2607/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118886772/b7559f3f-eaa3-43f0-b289-355114f4cba8)
+
+![image](https://github.com/KANISHKAR2607/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118886772/00b91d16-d3d4-4e01-8f17-7e6c2d28e191)
+
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
